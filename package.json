@@ -1,6 +1,6 @@
 {
   "name": "ember-test-selectors-params-codemod",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Codemod for ember-test-selectors users to migrate from positional params to named arguments",
   "homepage": "https://github.com/simplabs/ember-test-selectors-params-codemod",
   "repository": "git@github.com:simplabs/ember-test-selectors-params-codemod.git",
