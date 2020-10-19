@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.0",
-    "ember-template-recast": "^4.2.0",
+    "ember-template-recast": "^4.2.1",
     "globby": "^11.0.1",
     "progress": "^2.0.3"
   },
